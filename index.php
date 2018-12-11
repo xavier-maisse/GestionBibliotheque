@@ -13,7 +13,7 @@ $xavier7 = new Book("test8","test","test",'123');
 $xavier8 = new Book("test9","aest","test",'123');
 $xavier9 = new Book("test10","test","test",'123');
 $xavier10 = new Book("test11","test","test",'123');
-$hugo = new Book("Ugo la pute", "Xavier" , "ede" , "1");
+
 
 $listlivre = array($xavier10,$xavier9,$xavier8,$xavier8);
 
